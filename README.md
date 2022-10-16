@@ -5,7 +5,7 @@
 
 >Projeto construído no evento MAPADEV WEEK da Dev em Dobro.
 
-[🔗Clique aqui para acessar](https://alefemendes.github.io/nlw-esports-explorer/)
+[🔗Clique aqui para acessar](https://alefemendes.github.io/mini-potifolio-mapadev-week-2/)
 
 ## 🌐 Tecnologias 💻
 
